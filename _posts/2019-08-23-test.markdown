@@ -1,9 +1,9 @@
 ---
 layout: post
+mathjax: true
 title:  "Test!"
 date:   2019-08-23 12:38:54 +0200
 categories: Test
-mathjax: true
 ---
 
 This is a test of a post. Nice layout. Nice formatting :-) Cool. It works.
