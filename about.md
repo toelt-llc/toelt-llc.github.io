@@ -9,19 +9,47 @@ and have fun. Here are some information on me that you may find interesting.
 In case you want to contact me, my email is plastered all around in this Blog.
 So use it.
 
+<br/>
+
+----
+<br/>   
+What is a rambling by the way? According to Google
+
+### rambling
+
+/ˈramblɪŋ/
+
+adjective
+(of writing or speech) lengthy and confused or inconsequential.
+"a rambling six-hour speech"
+
+synonyms:	long-winded, garrulous, verbose, wordy, prolix;
+
+<br/>
+
+----
+
+<br/>
+
 My name is <span style="color:rgb(192,0,105)">Umberto Michelucci</span>. I am the founder of
 [TOELT](http://toelt.ai) a startup that
 is building the technology for the next generation of sensors that learns.
 I work in several fields: Physics, Astronomy, image recognition, and whatever
 I find interesting.
 
-At the moment my main interests Parametric
+At the moment my main interests are
 
 - Theory of neural networks based on functional analysis
 (metric spaces and stuff like that)
 
 - Neural networks on embedded systems and IoT
 (developing a prototype for TOELT on a Raspberry Pi)
+
+<br/>
+
+----
+
+<br/>
 
 # Most Recent Publications
 
