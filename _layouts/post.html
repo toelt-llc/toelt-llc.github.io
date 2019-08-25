@@ -6,14 +6,31 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
+
+
+    <p class="post-meta"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {{ page.date | date: date_format }}
+    </time></p>
+
+
+    <small><font color="gray">Umberto Michelucci</font> <a style="color:rgb(192,0,105)" href="https://github.com/toelt-llc">
+        <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg><span class="username">toelt-llc</span>
+    </a>
+    <a style="color:rgb(192,0,105)" href="https://github.com/michelucci">
+        <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg><span class="username">michelucci</span>
+    </a>
+    <a style="color:rgb(192,0,105)" href="https://www.twitter.com/umichelucci">
+        <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg><span class="username">umichelucci</span>
+    </a></small>
+    <!--<p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}</p>-->
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
