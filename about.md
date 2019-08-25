@@ -15,6 +15,14 @@ is building the technology for the next generation of sensors that learns.
 I work in several fields: Physics, Astronomy, image recognition, and whatever
 I find interesting.
 
+At the moment my main interests Parametric
+
+- Theory of neural networks based on functional analysis
+(metric spaces and stuff like that)
+
+- Neural networks on embedded systems and IoT
+(developing a prototype for TOELT on a Raspberry Pi)
+
 # Most Recent Publications
 
 1. **Optical oxygen sensing with artificial intelligence**
