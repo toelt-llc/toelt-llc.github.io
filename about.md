@@ -38,7 +38,7 @@ I find interesting.
 
    [PDF Full Text Download](https://www.mdpi.com/2504-3900/1/8/833/pdf)
 
-   *Author(s):* Venturini, F.; <span style="color:rgb(192,0,105)">Michelucci</spam>,
+   *Author(s):* Venturini, F.; <span style="color:rgb(192,0,105)">Michelucci</span>,
    U. Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor. Proceedings2017, 1, 833.
 
 4. **Novel Semi-Parametric Algorithm for Interference-Immune Tunable Absorption Spectroscopy Gas Sensing**
