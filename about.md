@@ -15,7 +15,7 @@ is building the technology for the next generation of sensors that learns.
 I work in several fields: Physics, Astronomy, image recognition, and whatever
 I find interesting.
 
-# Recent Publications
+# Most Recent Publications
 
 1. **Optical oxygen sensing with artificial intelligence**
 
@@ -33,3 +33,16 @@ I find interesting.
    [PDF available](https://www.mdpi.com/1424-8220/19/4/777/pdf)
 
    *Author(s):* <span style="color:rgb(192,0,105)">Michelucci, U.</span>; Baumgartner, M.; Venturini, F. Optical Oxygen Sensing with Artificial Intelligence. Sensors 2019, 19, 777.
+
+3. **Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor**
+
+   [PDF Full Text Download](https://www.mdpi.com/2504-3900/1/8/833/pdf)
+
+   *Author(s):* Venturini, F.; <span style="color:rgb(192,0,105)">Michelucci</spam>,
+   U. Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor. Proceedings2017, 1, 833.
+
+4. **Novel Semi-Parametric Algorithm for Interference-Immune Tunable Absorption Spectroscopy Gas Sensing**
+
+   [PDF Full Text Download](https://www.mdpi.com/1424-8220/17/10/2281/pdf)
+
+   Michelucci, U.; Venturini, F. Novel Semi-Parametric Algorithm for Interference-Immune Tunable Absorption Spectroscopy Gas Sensing. Sensors 2017, 17, 2281.
