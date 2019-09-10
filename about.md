@@ -63,9 +63,9 @@ __APRESS Webpage__: https://www.apress.com/gp/book/9781484249758
 
 “_Applied Deep Learning: a case based approach_”, Springer Nature / Apress (2018)
 
-__APRESS Webpage__: https://www.apress.com/us/book/9781484237892
+__APRESS Webpage__: [https://www.apress.com/us/book/9781484237892](https://www.apress.com/us/book/9781484237892)
 
-__GITHUB Code Repository__: https://github.com/Apress/applied-deep-learning (open to everyone)
+__GITHUB Code Repository__: [https://github.com/Apress/applied-deep-learning](https://github.com/Apress/applied-deep-learning) (open to everyone)
 
 
 <br/>
