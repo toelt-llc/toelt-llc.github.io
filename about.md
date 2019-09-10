@@ -40,10 +40,11 @@ I find interesting.
 At the moment my main interests are
 
 - Theory of neural networks based on functional analysis
-(metric spaces and stuff like that)
+
 
 - Neural networks on embedded systems and IoT
-(developing a prototype for TOELT on a Raspberry Pi)
+
+- Application of Deep Learning to Phyics
 
 <br/>
 
@@ -55,11 +56,14 @@ At the moment my main interests are
 
 I am the author of two books on Deep Learning with TensorFlow and Keras.
 
+<img src="/assets/cover2.png" alt="Cover1" width="120"/>
+
 “_Advanced Applied Deep Learning -
 Convolutional Neural Networks and Object Detection_”, Springer Nature / Apress (2019)
 
 __APRESS Webpage__: [https://www.apress.com/gp/book/9781484249758](https://www.apress.com/gp/book/9781484249758)
 
+<img src="/assets/cover1.png" alt="Cover1" width="120"/>
 
 “_Applied Deep Learning: a case based approach_”, Springer Nature / Apress (2018)
 
