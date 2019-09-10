@@ -58,7 +58,7 @@ I am the author of two books on Deep Learning with TensorFlow and Keras.
 “_Advanced Applied Deep Learning -
 Convolutional Neural Networks and Object Detection_”, Springer Nature / Apress (2019)
 
-__APRESS Webpage__: https://www.apress.com/gp/book/9781484249758
+__APRESS Webpage__: [https://www.apress.com/gp/book/9781484249758](https://www.apress.com/gp/book/9781484249758)
 
 
 “_Applied Deep Learning: a case based approach_”, Springer Nature / Apress (2018)
