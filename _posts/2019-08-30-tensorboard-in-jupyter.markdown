@@ -1,10 +1,14 @@
 ---
 layout: post
 mathjax: true
-title:  "Tensorboard in Jupyter - quick overview"
+title:  "TF 2.0 Notes - Tensorboard in Jupyter - quick overview"
 date:   2019-08-30 21:34:54 +0200
 categories: visualisation
 ---
+
+In this post I look quickly at how to use Tensorboard in
+a jupyter notebook in TF 2.0. 
+<!--more-->
 
 # A brief overview on how to use Tensorboard in a Jupyter notebook
 
