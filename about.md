@@ -51,6 +51,25 @@ At the moment my main interests are
 
 <br/>
 
+# Books
+
+I am the author of two books on Deep Learning with TensorFlow and Keras.
+
+__Title__: “_Advanced Applied Deep Learning -
+Convolutional Neural Networks and Object Detection_”, Springer Nature / Apress (2019)
+
+__APRESS Webpage__: https://www.apress.com/gp/book/9781484249758
+
+
+__Title__: “_Applied Deep Learning: a case based approach_”, Springer Nature / Apress (2018)
+
+__APRESS Webpage__: https://www.apress.com/us/book/9781484237892
+
+__GITHUB Code Repository__: https://github.com/Apress/applied-deep-learning (open to everyone)
+
+
+
+
 # Most Recent Publications
 
 1. **Optical oxygen sensing with artificial intelligence**
