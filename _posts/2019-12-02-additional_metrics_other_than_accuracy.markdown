@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title:  "Additional metrics other than the accuracy in classification"
 date:   2019-12-02 13:33:00 +0200
-categories: TensorFlow Keras
+categories: theory
 ---
 
 I discuss briefly what other metrics are important when working on
