@@ -6,10 +6,10 @@ date:   2019-12-02 13:33:00 +0200
 categories: TensorFlow Keras
 ---
 
-I discuss briefly how to build a custom metric with TensorFlow 2.0 and
-Keras. As an example I discuss the F1 Score and how to implement it
-with the classical `compile()` method and then with a custom
-gradient loop.
+I discuss briefly what other metrics are important when working on
+classification problems, especially if dealing with unbalanced datasets.
+The mathematics is discussed and especially I try to make the interpretation
+clear and intuitive.
 <!--more-->
 
 # What is the F1 score?
