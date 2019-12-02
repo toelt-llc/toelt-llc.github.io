@@ -12,10 +12,10 @@ The mathematics is discussed and especially I try to make the interpretation
 clear and intuitive.
 <!--more-->
 
-# What is the F1 score?
+# Additional metrics other than the accuracy in classification
 
-Let's start briefly with what is the F1 score. To define it mathematically
-is easier if we first define
+Let's start briefly by discussing useful metrics that we can easily calculate
+when dealing with classification.
 
 - $tp$: true positives
 - $fp$: false positives
