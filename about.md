@@ -35,12 +35,12 @@ My name is <span style="color:rgb(192,0,105)">Umberto Michelucci</span>. I am th
 [TOELT](http://toelt.ai) a startup that
 is building the technology for the next generation of sensors that learns.
 I work in several fields: Physics, Astronomy, image recognition, and whatever
-I find interesting.
+I find interesting. I am also a Google Developer Expert in Machine learning
+based in Switzerland.
 
 At the moment my main interests are
 
 - Theory of neural networks based on functional analysis
-
 
 - Neural networks on embedded systems and IoT
 
