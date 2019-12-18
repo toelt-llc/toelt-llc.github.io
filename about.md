@@ -80,7 +80,14 @@ __GITHUB Code Repository__: [https://github.com/Apress/applied-deep-learning](ht
 
 # Most Recent Publications
 
-1. **Optical oxygen sensing with artificial intelligence**
+
+1. **Multi-Task Learning for Multi-Dimensional Regression: Application to Luminescence Sensing.**
+
+   [PDF Available](https://www.mdpi.com/2076-3417/9/22/4748/pdf)
+
+   Authors: <span style="color:rgb(192,0,105)">Michelucci U.,</span>; Venturini, F.  Appl. Sci. 2019, 9, 4748.
+
+2. **Optical oxygen sensing with artificial intelligence**
 
    SPIE Photonics West Conference Proceedings / Talk
 
@@ -89,7 +96,7 @@ __GITHUB Code Repository__: [https://github.com/Apress/applied-deep-learning](ht
 
    Proc. SPIE 10937, Optical oxygen sensing with artificial intelligence, 1093714 (February 2019).
 
-2. **Optical oxygen sensing with artificial intelligence**
+3. **Optical oxygen sensing with artificial intelligence**
 
    Published in Sensors (MDPI)
 
@@ -97,14 +104,14 @@ __GITHUB Code Repository__: [https://github.com/Apress/applied-deep-learning](ht
 
    *Author(s):* <span style="color:rgb(192,0,105)">Michelucci, U.</span>; Baumgartner, M.; Venturini, F. Optical Oxygen Sensing with Artificial Intelligence. Sensors 2019, 19, 777.
 
-3. **Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor**
+4. **Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor**
 
    [PDF Full Text Download](https://www.mdpi.com/2504-3900/1/8/833/pdf)
 
    *Author(s):* Venturini, F.; <span style="color:rgb(192,0,105)">Michelucci</span>,
-   U. Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor. Proceedings2017, 1, 833.
+   U. Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor. Proceedings 2017, 1, 833.
 
-4. **Novel Semi-Parametric Algorithm for Interference-Immune Tunable Absorption Spectroscopy Gas Sensing**
+5. **Novel Semi-Parametric Algorithm for Interference-Immune Tunable Absorption Spectroscopy Gas Sensing**
 
    [PDF Full Text Download](https://www.mdpi.com/1424-8220/17/10/2281/pdf)
 
