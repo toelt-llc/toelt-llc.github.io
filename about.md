@@ -42,6 +42,9 @@ __GITHUB Code Repository__: [https://github.com/Apress/applied-deep-learning](ht
 
 #  Publications by Team Members
 
+_Dual Oxygen and Temperature Luminescence Learning Sensor with Parallel Inference_,
+**Venturini, F.**; **Michelucci, U.**; Baumgartner, M. Sensors 2020, 20, 4886.
+
 _Dual oxygen and temperature luminescence learning sensor with parallel inference_
 **F. Venturini**, **U. Michelucci**, M Baumgartner
 arXiv preprint arXiv:2007.13663, 2020
