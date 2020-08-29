@@ -4,49 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is a blog where I write whatever I find interesting. So feel free to browse
-and have fun. Here are some information on me that you may find interesting.
-In case you want to contact me, my email is plastered all around in this Blog.
-So use it.
+Here you will find research news from TOELT LLC. Here is a list of books and papers
+we have published.
 
 <br/>
 
-----
-<br/>   
-What is a rambling by the way? According to Google
-
-### rambling
-
-/ˈramblɪŋ/
-
-adjective
-(of writing or speech) lengthy and confused or inconsequential.
-"a rambling six-hour speech"
-
-synonyms:	long-winded, garrulous, verbose, wordy, prolix;
-
-<br/>
-
-----
-
-<br/>
-
-My name is <span style="color:rgb(192,0,105)">Umberto Michelucci</span>. I am the founder of
-[TOELT](http://toelt.ai) a startup that
-is building the technology for the next generation of sensors that learns.
-I work in several fields: Physics, Astronomy, image recognition, and whatever
-I find interesting. I am also a Google Developer Expert in Machine learning
-based in Switzerland.
-
-At the moment my main interests are
-
-- Theory of neural networks based on functional analysis
-
-- Neural networks on embedded systems and IoT
-
-- Application of Deep Learning to Phyics
-
-<br/>
 
 ----
 
@@ -54,7 +16,7 @@ At the moment my main interests are
 
 # Books
 
-I am the author of two books on Deep Learning with TensorFlow and Keras.
+Umberto Michelucci (co-founder) is the author of two books on Deep Learning with TensorFlow and Keras.
 
 <img src="/assets/cover2.png" alt="Cover1" width="120"/>
 
@@ -78,41 +40,69 @@ __GITHUB Code Repository__: [https://github.com/Apress/applied-deep-learning](ht
 
 <br/>
 
-# Most Recent Publications
+#  Publications by Team Members
+
+_Dual oxygen and temperature luminescence learning sensor with parallel inference_
+**F. Venturini**, **U. Michelucci**, M Baumgartner
+arXiv preprint arXiv:2007.13663, 2020
+
+_Multi-task learning approach for optical luminescence sensing_
+**F. Venturini**, **U. Michelucci**, M Baumgartner
+Applied Machine Learning Days (AMLD), Lausanne, 25-29 January 2020
+
+_Dual oxygen and temperature sensing with single indicator using multi-task-learning neural networks_
+**F. Venturini**, **U. Michelucci**, M Baumgartner
+Optical Sensing and Detection VI 11354, 113541C,		2020
+
+_Optical oxygen sensing with artificial intelligence_
+**U. Michelucci**, M. Baumgartner, **F .Venturini**
+Sensors 19 (4), 777	,	2019
 
 
-1. **Multi-Task Learning for Multi-Dimensional Regression: Application to Luminescence Sensing.**
 
-   [PDF Available](https://www.mdpi.com/2076-3417/9/22/4748/pdf)
+_New approach for luminescence sensing based on machine learning_
+**F Venturini**, M Baumgartner, **U. Michelucci**
+Optical Data Science II 10937, 109370H,		2019
 
-   Authors: <span style="color:rgb(192,0,105)">Michelucci U.,</span>; Venturini, F.  Appl. Sci. 2019, 9, 4748.
+_Multi-task learning for multi-dimensional regression: application to luminescence sensing_
+**U Michelucci**, **F Venturini**
+Applied Sciences 9 (22), 4748, 2019
 
-2. **Optical oxygen sensing with artificial intelligence**
+Chelwani, N.; Baum, A.; Böhm, T.; Opel, M.; **Venturini, Francesca**; Tassini, L.; Erb, A.; Berger, H.; Forró, L.; Hackl, R., 2018. Magnetic excitations and amplitude fluctuations in insulating cuprates. Physical Review B. 97(2). Available from: https://doi.org/10.1103/PhysRevB.97.024407
 
-   SPIE Photonics West Conference Proceedings / Talk
+**Venturini, Francesca**; Baumgartner, Michael; Borisov, Sergey, 2018. Mn4+-doped magnesium titanate : a promising phosphor for self-referenced optical temperature sensing. Sensors. 18(2/668). Available from: https://doi.org/10.21256/zhaw-3516
 
-   *Author(s):* Francesca Venturini, Michael Baumgartner, Zürcher Hochschule für Angewandte Wissenschaften (Switzerland);
-<span style="color:rgb(192,0,105)">Umberto Michelucci, TOELT LLC (Switzerland)</span>
+**Venturini, Francesca**; Schönherr, Veit; Rey, Julien; Adolfsson, Erik, 2017. Characterization of light-gas interaction in strongly-scattering nanoporous materials and its implications for tunable diode laser absorption spectroscopy. Applied Physics B. 123(4), pp. 123-136. Available from: https://doi.org/10.21256/zhaw-3486
 
-   Proc. SPIE 10937, Optical oxygen sensing with artificial intelligence, 1093714 (February 2019).
+_Novel semi-parametric algorithm for interference-immune tunable absorption spectroscopy gas Sensing_
+**U. Michelucci**, **F. Venturini**
+Sensors 17 (10), 2281, 2017
 
-3. **Optical oxygen sensing with artificial intelligence**
+**Venturini, Francesca**; Bürgi, René; Borisov, Sergey; Klimant, Ingo, 2015. Optical temperature sensing using a new thermographic phosphor. Sensors and Actuators A: Physical. 233, pp. 324-329. Available from: https://doi.org/10.1016/j.sna.2015.07.009
 
-   Published in Sensors (MDPI)
 
-   [PDF available](https://www.mdpi.com/1424-8220/19/4/777/pdf)
 
-   *Author(s):* <span style="color:rgb(192,0,105)">Michelucci, U.</span>; Baumgartner, M.; Venturini, F. Optical Oxygen Sensing with Artificial Intelligence. Sensors 2019, 19, 777.
 
-4. **Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor**
 
-   [PDF Full Text Download](https://www.mdpi.com/2504-3900/1/8/833/pdf)
 
-   *Author(s):* Venturini, F.; <span style="color:rgb(192,0,105)">Michelucci</span>,
-   U. Novel Algorithm for Calibration-Free Absorption Spectroscopy Sensor. Proceedings 2017, 1, 833.
 
-5. **Novel Semi-Parametric Algorithm for Interference-Immune Tunable Absorption Spectroscopy Gas Sensing**
+# Old  Publications in Physics
 
-   [PDF Full Text Download](https://www.mdpi.com/1424-8220/17/10/2281/pdf)
+Collective spin fluctuation mode and Raman scattering in superconducting cuprates
+F Venturini, U Michelucci, TP Devereaux, AP Kampf
+Physical Review B 62 (22), 15204
 
-   Michelucci, U.; Venturini, F. Novel Semi-Parametric Algorithm for Interference-Immune Tunable Absorption Spectroscopy Gas Sensing. Sensors 2017, 17, 2281.
+Anisotropic conductivity of  films at submillimeter wavelengths
+A Pimenov, AV Pronin, A Loidl, U Michelucci, AP Kampf, ...
+Physical Review B 62 (14), 9822	,	2000
+
+
+
+Comment on “Nonmonotonic  Superconducting Order Parameter in dx2-y2”
+F Venturini, R Hackl, U Michelucci
+Physical review letters 90 (14), 149701	,	2003
+
+
+Quantum interference phenomena between impurity states in d-wave superconductors
+U Michelucci, F Venturini, AP Kampf
+Journal of Physics and Chemistry of Solids 63 (12), 2283-2286,	2002
