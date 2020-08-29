@@ -4,6 +4,9 @@ mathjax: true
 title:  "Additional metrics other than the accuracy in classification"
 date:   2019-12-02 13:33:00 +0200
 categories: theory
+author: Umberto Michelucci
+github: https://github.com/michelucci
+github-user: michelucci
 ---
 
 I discuss briefly what other metrics are important when working on

@@ -4,6 +4,9 @@ mathjax: true
 title:  "Setup of Google Coral Device on Mac OS Catalina"
 date:   2019-12-18 08:12:00 +0200
 categories: Coral
+author: Umberto Michelucci
+github: https://github.com/michelucci
+github-user: michelucci
 ---
 
 This post contains a few notes on how to get ssh working on a Google

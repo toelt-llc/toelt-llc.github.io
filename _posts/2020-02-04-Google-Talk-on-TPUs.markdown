@@ -4,6 +4,9 @@ mathjax: true
 title:  "Talk @ Google on TPU and Edge Coral Devices"
 date:   2019-12-18 08:12:00 +0200
 categories: Coral
+author: Umberto Michelucci
+github: https://github.com/michelucci
+github-user: michelucci
 ---
 
 

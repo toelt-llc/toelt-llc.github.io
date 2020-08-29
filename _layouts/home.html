@@ -2,6 +2,10 @@
 layout: default
 title: Umberto's Ramblings
 ---
+
+
+
+
 <div class="posts">
     {% for post in site.posts %}
         <article>
@@ -11,7 +15,7 @@ title: Umberto's Ramblings
               {{ post.date | date_to_string }}
             </time></p>
 
-            <small><font color="gray">Umberto Michelucci</font> <a style="color:rgb(192,0,105)" href="https://github.com/toelt-llc">
+            <small><font color="gray">{{ post.author }}</font> <a style="color:rgb(192,0,105)" href="https://github.com/toelt-llc">
                 <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg><span class="username">toelt-llc</span>
             </a>
             <a style="color:rgb(192,0,105)" href="https://github.com/michelucci">

@@ -4,6 +4,9 @@ mathjax: true
 title:  "TF2.0 Notes - Gradient Tape - quick overview"
 date:   2019-09-09 21:34:54 +0200
 categories: TensorFlow
+author: Umberto Michelucci
+github: https://github.com/michelucci
+github-user: michelucci
 ---
 
 This post contains some of my notes on ```GradientTape()``` API
